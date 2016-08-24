@@ -1,0 +1,28 @@
+{
+  "name": "stat-library",
+  "version": "1.0.0",
+  "description": "Helper functions and classes to be used to help predict players stats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlb-ranking/mlb-statistics-library.git"
+  },
+  "keywords": [
+    "mlb",
+    "stats",
+    "library",
+    "math",
+    "data",
+    "structures",
+    "algorithms"
+  ],
+  "author": "Josh Rogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlb-ranking/mlb-statistics-library/issues"
+  },
+  "homepage": "https://github.com/mlb-ranking/mlb-statistics-library#readme"
+}
